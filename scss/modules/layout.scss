@@ -1,0 +1,27 @@
+
+section, header, footer { box-sizing: border-box;  padding: 0;
+  width: 100%;   }
+
+.container {
+  width: 1055px;
+  margin: 0 auto;
+  height: 100%;
+}
+
+
+body { font-family: "Raleway", sans-serif; }
+
+
+.column {
+  text-decoration: none;
+}
+
+.col-2-layout, .col-3-layout, .col-4-layout {
+  height: 100%;
+  display: flex;
+}
+
+.col-2-layout .column { width: calc(50%- 2px); }
+.col-3-layout .column { width: calc((100%/3)- 2px); }
+.col-4-layout .column { width: calc(25% - 2px); }
+
