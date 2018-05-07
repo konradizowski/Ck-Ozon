@@ -20,39 +20,11 @@ Site Hero
  }
 }
 
-.move-button, .move-button2 {
-  font-size: 75px;
-  text-decoration: none;
-  color: #27C7AB;
-  position: absolute;
-  /*top: 260px;*/
-  font-weight: 300;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.move-button2 {
-  right: 0;
-
-}
-
-.hero-image{
-  width: 440px;
-  height: 100%;
-  background-image: url("../images/black_chair.png");
-  background-repeat: no-repeat;
-  background-size: 144%;
-  background-position: center;
-  background-position-x: -55px;
-
-
-}
-
 
 
 .hero-description {
-  padding-right: 60px;
-  width: 1050px - 400px;
+  height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   vertical-align: middle;
@@ -63,7 +35,10 @@ Site Hero
 
 
 .hero-description > h1 {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 48px;
+
 }
 
 
@@ -81,9 +56,9 @@ Site Hero
   width: 265px;
   height: 52px;
   margin-top: 30px;
-  border: 1px solid #27C7AB;
+  border: 1px solid #022E6B;
   text-align: center;
-  background-color: #27C7AB;
+  background-color: #022E6B;
   border-radius: 7px;
   font-size: 25px;
   color: white;
@@ -91,6 +66,7 @@ Site Hero
   letter-spacing: 0;
   font-weight: 500;
   line-height: 50px;
+  text-decoration: none;
 
 }
 
@@ -101,7 +77,9 @@ Site Hero
   font-weight: 500;
 }
 
-.name-big > span {
-  color: #27C7AB;
+.name-phone {
+  color: #022E6B;
   font-weight: 600;
+  font-size: 44px;
+  margin-bottom: 40px;
 }
