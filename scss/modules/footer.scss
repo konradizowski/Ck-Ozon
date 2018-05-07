@@ -1,0 +1,22 @@
+
+.site-footer {
+  height: 80px;
+  background-color: #022E6B;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+
+
+  .col-3-layout {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+  .copyrights {
+    font-size: 10px;
+    font-weight: 300;
+  }
+  }
+}
