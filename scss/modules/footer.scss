@@ -3,20 +3,36 @@
   height: 80px;
   background-color: #022E6B;
   color: white;
-  font-size: 18px;
+  font-size: 25px;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-weight: 600;
 
 
   .col-3-layout {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+    .copyrights {
+      font-size: 10px;
+      font-weight: 300;
+    }
+  }
+}
 
-  .copyrights {
-    font-size: 10px;
-    font-weight: 300;
+a {
+  display: flex;
+  text-decoration: none;
+  color: whitesmoke;
+
+  img {
+    padding-left: 15px;
+
+
   }
-  }
+}
+
+.like {
+  text-decoration: none;
+  color: whitesmoke;
 }

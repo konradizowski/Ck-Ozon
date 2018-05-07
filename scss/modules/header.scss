@@ -11,7 +11,7 @@ nav ul {
 .site-header {
   background-color: #022E6B;
   color: white;
-  font-size: 13px;
+  font-size: 20px;
   text-transform: uppercase;
   height: 40px;
   letter-spacing: 1px;
@@ -26,21 +26,22 @@ nav ul {
 }
 
 .logo {
-  display: flex;
-  align-content: center;
-  .blue {
-    color: #022E6B;
-  }
+  padding-left: 30px;
 }
 
 .site-menu {
   display: flex;
   a {
-    font-size: 13px;
+    font-size: 14px;
     text-decoration: none;
     color: whitesmoke;
     margin-left: 43px;
 
+  }
+  a:hover {
+    background-color: #FF6223;
+    border-radius: 2px;
+    border: #8de0d2 1px solid;
   }
 
 }
