@@ -8,6 +8,24 @@ $(function()	{
         $(".submenu").slideUp('slow');
 
     });
+    $(".uslugi").on('mouseover', function() {
+        $(".submenu").slideUp('slow');
+
+    });
+    $(".kontakt").on('mouseover', function() {
+        $(".submenu").slideUp('slow');
+
+    });
+    $(".galeria").on('mouseover', function() {
+        $(".submenu").slideUp('slow');
+
+    });
+
+
+
+
+
+
 
 
     $(".box1 a ").on('mouseover', function() {
