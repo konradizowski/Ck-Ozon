@@ -20,7 +20,10 @@ $(function()	{
         $(".submenu").slideUp('slow');
 
     });
+    $("p, h1, h2").on('mouseover', function() {
+        $(".submenu").slideUp('slow');
 
+    });
 
 
 

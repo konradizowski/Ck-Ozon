@@ -12,52 +12,48 @@ Site Hero
     .container {
     height: 100%;
 
-  }
-}
+    .hero-description {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      vertical-align: middle;
+      justify-content: center;
+      align-items: center;
+      text-align: justify;
+      z-index: 2;
 
+      h1 {
+        margin-top: 90px;
+        margin-bottom: 20px;
+        font-weight: 200;
+        font-size: 90px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #000A20;
 
+      }
 
+      h2 {
+        font-family: "Raleway", sans-serif;
+        color: #022E6B;
+        font-weight: 500;
+        font-size: 38px;
+        margin-bottom: 40px;
 
-.hero-description {
-  height: 100%;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  vertical-align: middle;
-  justify-content: center;
-  align-items: center;
-  text-align: justify;
-  z-index: 2;
+      }
 
-  h1 {
-    margin-top: 90px;
-    margin-bottom: 20px;
-    font-weight: 200;
-    font-size: 90px;
-    text-align: center;
-    text-transform: uppercase;
-    color: #000A20;
-
-  }
-
-  h2 {
-    font-family: "Raleway", sans-serif;
-    color: #022E6B;
-    font-weight: 500;
-    font-size: 38px;
-    margin-bottom: 40px;
-
-  }
-
-  p {
-    font-size: 14px;
-    line-height: 1.5em;
-    letter-spacing: 1px;
-    width: 450px;
-    text-align: justify;
-    font-weight: 300;
-    word-spacing: 0.5px;
-    color: black;
+      p {
+        font-size: 14px;
+        line-height: 1.5em;
+        letter-spacing: 1px;
+        width: 450px;
+        text-align: justify;
+        font-weight: 300;
+        word-spacing: 0.5px;
+        color: black;
+      }
+    }
   }
 }
 
@@ -66,7 +62,7 @@ Site Hero
   width: 265px;
   height: 52px;
   margin-top: 30px;
-  border: 1px solid #022E6B;
+  border: 2px solid #022E6B;
   text-align: center;
   background-color: #022E6B;
   border-radius: 7px;
@@ -78,6 +74,11 @@ Site Hero
   line-height: 50px;
   text-decoration: none;
 
+  &:hover {
+    background-color: lightGray;
+    color: #022E6B;
+    font-weight: 600;
+  }
 
 }
 
@@ -89,6 +90,12 @@ Site Hero
   width: 100%;
   text-decoration: none;
   color: whitesmoke;
+  &:hover {
+    background-color: lightGray;
+    color: #022E6B;
+    font-weight: 600;
+  }
+
 }
 
 
