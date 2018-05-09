@@ -1,11 +1,30 @@
 $(function()	{
 
-    $(".dropdown-btn").on('click',	function(e)	{
-        e.preventDefault();
-        $(".submenu").toggleClass('show');
+    $(".dropdown-btn").on('mouseover', function() {
+        $(".submenu").slideDown('slow');
+
+    });
+    $(".submenu").on('mouseleave', function() {
+        $(".submenu").slideUp('show');
 
     });
 
+
+
+
+
+
+    const box = $(".box");
+    console.log(box);
+
+   for (var i = 0; i < box.length; i++) {
+       .on('mouseover', function () {
+
+           console.log('hai');
+          /* var label = this.parent.lastElementChild;
+           label.style.display = "none";*/
+       });
+   }
 
 
    /* const images= ['./img/adult-19033_640.jpg','./img/kitchen-2165756_640.jpg','./img/13712347603_fe51b02579_b.jpg'];

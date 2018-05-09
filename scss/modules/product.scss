@@ -14,44 +14,43 @@ Site Product
   flex-direction: row;
   justify-content: center;
 
-}
-.grid2x2 > div {
-  display: flex;
-  flex-basis: calc(50% - 40px);
-  justify-content: center;
-  flex-direction: column;
-}
-.grid2x2 > div > div {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
+  .box {
+    display: flex;
+    flex-basis: calc(50% - 40px);
+    justify-content: center;
+    flex-direction: column;
+
+    h2 {
+      position: relative;
+      width: 100%;
+      bottom: 120px;
+      z-index: 2;
+      height: 60px;
+      background-color: rgba(255,255,255,0.5);
+      filter: alpha(opacity=50);
+      font-weight: 600;
+
+      span {
+
+        display: inline-block;
+        position: relative;
+        top: 20px;
+        left: 20px;
+        border-bottom: #022E6B solid 8px;
+      }
+    }
+
+    img {
+
+      height: 300px;
+      width: 450px;
+    }
+  }
 }
 
-.box1 > h2, .box2 > h2, .box3 > h2, .box4 >h2 {
-  position: relative;
 
-  width: 100%;
-  bottom: 80px;
-  z-index: 2;
-  height: 60px;
-  background-color: rgba(255,255,255,0.5);
-  filter: alpha(opacity=50);
-  font-weight: 600;
 
-}
 
-.box  img {
-  height: 300px;
-  width: 450px;
-
-}
-.box1 span, .box2 span, .box3 span, .box4 span {
-  display: inline-block;
-  position: relative;
-  top: 20px;
-  left: 20px;
-  border-bottom: #022E6B solid 8px;
-}
 
 
 
