@@ -1,3 +1,5 @@
+
+
 .page-header {
   font-family: "Raleway", sans-serif;
   background: #022E6B;
@@ -5,7 +7,6 @@
   font-weight: 300;
   font-size: 14px;
   height: 40px;
-  position: fixed;
 
 }
 
@@ -67,7 +68,7 @@
   width:140px;
   z-index:9999;
   top: 40px;
-  text-align: center;
+  text-align: left;
   font-weight: 300;
 
   & a {
