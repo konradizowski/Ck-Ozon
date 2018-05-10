@@ -3,18 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="3f79a521-2860-4c3f-b763-a71f449a2a4a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/css/modules/contact.css" afterPath="$PROJECT_DIR$/css/modules/contact.css" />
-      <change beforePath="$PROJECT_DIR$/css/modules/footer.css" afterPath="$PROJECT_DIR$/css/modules/footer.css" />
-      <change beforePath="$PROJECT_DIR$/css/modules/header.css" afterPath="$PROJECT_DIR$/css/modules/header.css" />
+      <change beforePath="$PROJECT_DIR$/css/modules/gallery.css" afterPath="$PROJECT_DIR$/css/modules/gallery.css" />
       <change beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change beforePath="$PROJECT_DIR$/img/Ozonator-powietrza-Korona-A-40-Standard-B-generator.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change beforePath="$PROJECT_DIR$/scss/modules/contact.scss" afterPath="$PROJECT_DIR$/scss/modules/contact.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/modules/footer.scss" afterPath="$PROJECT_DIR$/scss/modules/footer.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/modules/header.scss" afterPath="$PROJECT_DIR$/scss/modules/header.scss" />
+      <change beforePath="$PROJECT_DIR$/img/example-slide-1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/example-slide-2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/example-slide-3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/example-slide-4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/thunder-1368797.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/wiatrak.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.slides.js" afterPath="$PROJECT_DIR$/js/jquery.slides.js" />
+      <change beforePath="$PROJECT_DIR$/scss/modules/gallery.scss" afterPath="$PROJECT_DIR$/scss/modules/gallery.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+            <state relative-caret-position="36">
+              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,8 +49,8 @@
       <file leaf-file-name="jquery.slides.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jquery.slides.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="486">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,18 +59,28 @@
       <file leaf-file-name="gallery.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/modules/gallery.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26576">
-              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/modules/layout.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3096">
-              <caret line="183" column="18" lean-forward="true" selection-start-line="183" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="117" column="30" lean-forward="false" selection-start-line="117" selection-start-column="30" selection-end-line="117" selection-end-column="30" />
               <folding>
                 <element signature="e#1879#1917#0" expanded="false" />
               </folding>
@@ -115,16 +123,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="828">
               <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/modules/product.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -174,12 +172,12 @@
         <option value="$PROJECT_DIR$/scss/modules/contact.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/scss/modules/gallery.scss" />
-        <option value="$PROJECT_DIR$/js/jquery.slides.js" />
         <option value="$PROJECT_DIR$/js/app.js" />
-        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/scss/modules/footer.scss" />
         <option value="$PROJECT_DIR$/scss/modules/header.scss" />
+        <option value="$PROJECT_DIR$/js/jquery.slides.js" />
+        <option value="$PROJECT_DIR$/scss/modules/gallery.scss" />
+        <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
   </component>
@@ -247,6 +245,12 @@
               <item name="scss" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ckOzon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ckOzon" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -296,12 +300,12 @@
       <workItem from="1525257227815" duration="5950000" />
       <workItem from="1525688147378" duration="11606000" />
       <workItem from="1525786141132" duration="5539000" />
-      <workItem from="1525809964800" duration="19227000" />
+      <workItem from="1525809964800" duration="19703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48670000" />
+    <option name="totallyTimeSpent" value="49146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="-11" width="1299" height="780" extended-state="6" />
@@ -503,14 +507,6 @@
     <entry file="file://$PROJECT_DIR$/src/scss/modules/header.scss" />
     <entry file="file://$PROJECT_DIR$/src/css/modules/header.css" />
     <entry file="file://$PROJECT_DIR$/src/scss/modules/hero.scss" />
-    <entry file="file://$PROJECT_DIR$/scss/modules/layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/kontakt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -599,10 +595,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/modules/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.slides.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="486">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/modules/gallery.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -615,37 +635,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/modules/header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/modules/gallery.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26576">
-          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3096">
-          <caret line="183" column="18" lean-forward="true" selection-start-line="183" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="117" column="30" lean-forward="false" selection-start-line="117" selection-start-column="30" selection-end-line="117" selection-end-column="30" />
           <folding>
             <element signature="e#1879#1917#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/modules/layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
