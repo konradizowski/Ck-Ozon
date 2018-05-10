@@ -68,5 +68,29 @@ $(function() {
     });
 
 
-
 });
+
+
+
+$(function() {
+    var bi = $('.site-hero');
+    var backgrounds = ['url(./img/tutka2.png)','url(./img/tutka44.png)', 'url(./img/tutka33.png)', 'url(./img/tutka222.png)'];
+    var current = 0;
+
+    function nextBackground() {
+        bi.css(
+            'background-image',
+            backgrounds[current = ++current % backgrounds.length]
+        );
+    bi.css('background-repeat', 'no-repeat');
+    bi.css('background-size', 'cover');
+
+        setTimeout(nextBackground, 5000);
+    }
+    setTimeout(nextBackground, 5000);
+    bi.css('background', backgrounds[0]);
+    bi.css('background-repeat', 'no-repeat');
+    bi.css('background-size', 'cover');
+});
+
+

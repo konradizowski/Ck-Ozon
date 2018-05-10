@@ -5,6 +5,7 @@
   font-weight: 300;
   font-size: 14px;
   height: 40px;
+  position: fixed;
 
 }
 
@@ -63,7 +64,7 @@
   display: none;
   position:absolute;
   background-color: #022E6B;
-  width:160px;
+  width:140px;
   z-index:9999;
   top: 40px;
   text-align: center;
@@ -72,7 +73,7 @@
   & a {
     margin:0;
     text-transform: none;
-    padding: 0 3px;
+    padding: 0 5px;
   }
   & li {
     padding: 5px 0;

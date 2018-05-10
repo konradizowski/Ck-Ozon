@@ -5,9 +5,13 @@ Site Hero
 
 .site-hero {
   height: 555px;
-  background: rgba(251,250,255,1);
+  /*background: rgba(251,250,255,1);
   background: -moz-linear-gradient(top, rgba(251,250,255,1) 0%, rgba(251,250,255,0.97) 61%, rgba(217,216,222,0.95) 100%);
-  background: -webkit-linear-gradient(top, rgba(251,250,255,1) 0%, rgba(251,250,255,0.97) 61%, rgba(217,216,222,0.95) 100%);
+  background: -webkit-linear-gradient(top, rgba(251,250,255,1) 0%, rgba(251,250,255,0.97) 61%, rgba(217,216,222,0.95) 100%);*/
+
+  background-image: url("../img/tutka44.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 
     .container {
     height: 100%;
@@ -49,7 +53,7 @@ Site Hero
         letter-spacing: 1px;
         width: 450px;
         text-align: justify;
-        font-weight: 300;
+        font-weight: 500;
         word-spacing: 0.5px;
         color: black;
       }
