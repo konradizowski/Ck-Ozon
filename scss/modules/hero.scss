@@ -4,7 +4,7 @@ Site Hero
 
 
 .site-hero {
-  height: 555px;
+  height: auto;
   /*background: rgba(251,250,255,1);
   background: -moz-linear-gradient(top, rgba(251,250,255,1) 0%, rgba(251,250,255,0.97) 61%, rgba(217,216,222,0.95) 100%);
   background: -webkit-linear-gradient(top, rgba(251,250,255,1) 0%, rgba(251,250,255,0.97) 61%, rgba(217,216,222,0.95) 100%);*/
@@ -72,6 +72,7 @@ Site Hero
   border-radius: 7px;
   font-size: 25px;
   color: white;
+  margin-bottom: 50px;
   text-transform: uppercase;
   letter-spacing: 0;
   font-weight: 500;

@@ -1,4 +1,4 @@
-$(function() {
+(function() {
     $(".dropdown-btn").on('mouseover', function() {
         $(".submenu").slideDown('slow');
 

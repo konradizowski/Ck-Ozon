@@ -1,4 +1,20 @@
+@media screen and (max-width: 668px) {
+  .page-header{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    height: 70px;
+    background-color: #022E6B;
+  }
+  .menu {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 
+  }
+
+
+}
 
 .page-header {
   font-family: "Raleway", sans-serif;
