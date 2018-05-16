@@ -1,5 +1,5 @@
 .site-footer {
-  height: 80px;
+  height: auto;
   background-color: #022E6B;
   color: white;
   font-size: 25px;
@@ -20,7 +20,10 @@
   }
 }
 
+
+
 a {
+  padding-top: 10px;
   display: flex;
   text-decoration: none;
   color: whitesmoke;
@@ -28,9 +31,13 @@ a {
   img {
     padding-left: 15px;
 
-
   }
 }
+
+.adres {
+  padding: 10px 0;
+}
+
 
 .like {
   text-decoration: none;

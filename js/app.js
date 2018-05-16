@@ -27,7 +27,29 @@ $(function() {
 
 
 
+    $(".ozon-info").on('mouseover', function() {
+        $('.ozon-head').slideDown('slow');
+    });
 
+    $(".ozonowanie-info").on('mouseover', function() {
+        $('.ozonowanie-head').slideDown('slow');
+    });
+
+
+    $("header").on('mouseover', function() {
+        $('.name-big').slideDown('slow');
+    });
+    $(".site-hero").on('mouseover', function() {
+        $('.name-big').slideDown('slow');
+    });
+
+    $("header").on('mouseover', function() {
+        $('h1').slideDown('slow');
+    });
+
+    $(".about-us").on('mouseover', function() {
+        $('h1').slideDown('slow');
+    });
 
 
 

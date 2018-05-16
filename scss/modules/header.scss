@@ -3,8 +3,9 @@
     display: flex;
     width: 100%;
     flex-direction: column;
-    height: 70px;
+    height: auto;
     background-color: #022E6B;
+    padding-bottom: 15px;
   }
   .menu {
     display: flex;
@@ -22,7 +23,7 @@
   padding: 14px 0;
   font-weight: 300;
   font-size: 14px;
-  height: 40px;
+  height: auto;
 
 }
 
