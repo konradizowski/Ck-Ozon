@@ -1,8 +1,6 @@
 .contact {
   height: 555px;
-  background: rgba(251, 250, 255, 1);
-  background: -moz-linear-gradient(top, rgba(251, 250, 255, 1) 0%, rgba(251, 250, 255, 0.97) 61%, rgba(217, 216, 222, 0.95) 100%);
-  background: -webkit-linear-gradient(top, rgba(251, 250, 255, 1) 0%, rgba(251, 250, 255, 0.97) 61%, rgba(217, 216, 222, 0.95) 100%);
+  background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
 
   .container {
     height: 100%;
@@ -76,7 +74,7 @@ form {
 
 
 .form-group-one, .copyright {
-  width: 50.00%;
+  width: 40.00%;
 }
 
 .form-group-two {
@@ -193,8 +191,9 @@ form {
   color: white;
   background-color: #022E6B;
   font-size: 40px;
-  width: 100%;
+  width: 50%;
   margin-top: 40px;
+  margin-left: 40px;
   border-radius: 10px;
   border: none;
   padding: 15px 0;

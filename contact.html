@@ -20,15 +20,15 @@
         </div>
         <nav>
             <ul class="menu">
-                <li class="uslugi"><a href="services.html"><span>o nas</span></a></li>
-                <li class="uslugi"><a href="services.html"><span>ozonowanie</span></a></li>
+                <li class="aboutus"><a href="about.html"><span>o nas</span></a></li>
+                <li class="ozon"><a href="ozon.html"><span>ozonowanie</span></a></li>
                 <li>
-                    <a class="dropdown-btn" href="#"><span>oferta i cennik</span></a>
+                    <a class="dropdown-btn" href="services.html"><span>oferta i cennik</span></a>
                     <ul class="submenu">
-                        <li><a href="#">pojazdy </a></li>
-                        <li><a href="#">mieszkania </a></li>
-                        <li><a href="#">magazyny </a></li>
-                        <li><a href="#">obiekty inwentarskie </a></li>
+                        <li><a href="services.html#car">pojazdy </a></li>
+                        <li><a href="services.html#house">mieszkania </a></li>
+                        <li><a href="services.html#warehouse">magazyny </a></li>
+                        <li><a href="services.html#farm">obiekty inwentarskie </a></li>
                     </ul>
                 </li>
                 <li class="galeria"><a href="gallery.html"><span>Galeria</span></a></li>
@@ -54,11 +54,12 @@
         <div class="col-2-layout">
             <h2>Kontakt</h2>
             <div class="line-decor"></div>
-            <form>
+            <form action="https://formspree.io/biuro@ckozon.pl"
+                  method="POST" class="form">
                 <div class="form-group-one">
-                    <input class="form-control" type="text" name="firstname" placeholder="Imię">
-                    <input  class="form-control" type="email" name="email" placeholder="email">
-                    <textarea class="form-control" name="message" placeholder="Wiadomość"></textarea>
+                    <input id="inputName" class="form-control" type="text" name="firstname" placeholder="Imię">
+                    <input id="inputEmail" class="form-control" type="email" name="email" placeholder="email">
+                    <textarea id="inputMassege" class="form-control" name="message" placeholder="Wiadomość"></textarea>
                 </div>
                 <div class="form-group-two">
                     <img class="form-image" src="img/zmniejszone.jpg">
@@ -90,8 +91,8 @@
                             <img src="img/if_facebook_circle_294710.png">
                         </div>
                     </a>
-                    <div><span>+48 660 376 846</span></div>
-                    <div><span>biuro@ckozon.pl</span></div>
+                    <div class="adres"><span>+48 660 376 846</span></div>
+                    <div class="adres"><span>biuro@ckozon.pl</span></div>
                 </div>
             </div>
             <div class="column">
@@ -101,6 +102,7 @@
     </div>
 </footer>
 <script src="js/app.js"> </script>
+
 
 </body>
 </html>
