@@ -1,24 +1,34 @@
+#car, #warehouse {
+ background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+
+}
+
+
+
+
 
 .service-wrapper {
   display: flex;
   width: 100%;
   justify-content: space-between;
-  flex-wrap: nowrap;
   align-items: center;
+
 
   .description {
     height: 100%;
-    width: 65%;
     text-align: justify;
     padding: 20px 20px 40px 0;
+    align-items: center;
 
     h1 {
       margin-top: 45px;
       margin-bottom: 30px;
       font-weight: 500;
       font-size: 40px;
+      text-align: left;
       text-transform: uppercase;
       color: #022E6B;
+      display: none;
 
     }
 
@@ -41,7 +51,9 @@
     }
   }
   .picture {
-    height: auto;
+    img {width: 500px
+    }
     padding: 45px 20px;
   }
 }
+

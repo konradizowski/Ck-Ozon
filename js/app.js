@@ -27,6 +27,8 @@ $(function() {
 
 
 
+
+
     $(".ozon-info").on('mouseover', function() {
         $('.ozon-head').slideDown('slow');
     });
@@ -40,7 +42,11 @@ $(function() {
         $('.name-big').slideDown('slow');
     });
     $(".site-hero").on('mouseover', function() {
+        $('.name-phone').slideDown('slow');
+    });
+    $("section").on('mouseover', function() {
         $('.name-big').slideDown('slow');
+
     });
 
     $("header").on('mouseover', function() {
