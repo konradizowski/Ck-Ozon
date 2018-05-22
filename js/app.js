@@ -127,31 +127,4 @@ $(function() {
     bi.css('background-size', 'cover');
 });
 
-// ajax form
 
-/*
-
-(function() {
-    $(document).ready(function() {
-        return $('.form').submit(function(e) {
-            var email, message, name;
-            name = document.getElementById('inputName');
-            email = document.getElementById('inputEmail');
-            message = document.getElementById('inputMessage');
-            if (!name.value || !email.value || !message.value) {
-                return false alert();
-            } else {
-                $.ajax({
-                    method: 'POST',
-                    url: '//formspree.io/izowski@gmail.com',
-                    data: $('.form').serialize(),
-                    datatype: 'json'
-                });
-                e.preventDefault();
-                $(this).get(0).reset();
-                return alert("wiadomośc wyłana");
-            }
-        });
-    });
-
-}).call(this);*/
