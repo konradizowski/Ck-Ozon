@@ -1,62 +1,140 @@
 .site-ozon {
   background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
 
-  .ozon-info {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    padding-top: 80px;
-    padding-bottom: 50px;
+  @media screen and (min-width: 505px) {
 
+    .ozon-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      padding-top: 80px;
+      padding-bottom: 50px;
 
-    h1 {
+      h1 {
 
-      font-size: 34px;
-      border-bottom: #022E6B solid 4px;
-      width: 500px;
-      display: none;
+        font-size: 34px;
+        border-bottom: #022E6B solid 4px;
+        width: 500px;
+        display: none;
+      }
+
+      > p {
+
+        padding: 25px 50px;
+        width: 500px;
+        font-weight: 500;
+        text-align: justify;
+
+      }
     }
+  }
+}
 
-    > p {
+@media screen and (min-width: 505px) {
 
-      padding: 25px 50px;
-      width: 500px;
-      font-weight: 500;
-      text-align: justify;
+  .ozonowanie {
+    background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    .ozonowanie-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      padding-top: 80px;
+      padding-bottom: 50px;
 
+      h1 {
+
+        font-size: 34px;
+        border-bottom: whitesmoke solid 4px;
+        width: 500px;
+        color: white;
+        display: none;
+
+      }
+
+      > p {
+
+        padding: 25px 50px;
+        width: 500px;
+        font-weight: 500;
+        text-align: justify;
+        color: white;
+
+      }
+    }
+  }
+
+}
+
+
+
+
+
+
+
+  @media screen and (max-width: 505px) {
+
+    .ozon-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: auto;
+      padding-top: 80px;
+      padding-bottom: 50px;
+
+      h1 {
+
+        font-size: 34px;
+        border-bottom: #022E6B solid 4px;
+        width: auto;
+        display: none;
+      }
+
+      > p {
+
+        padding: 25px 50px;
+        width: auto;
+        font-weight: 500;
+        text-align: left;
+
+      }
+    }
+  }
+
+
+@media screen and (max-width: 505px) {
+
+  .ozonowanie {
+    background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    .ozonowanie-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: auto;
+      padding-top: 80px;
+      padding-bottom: 50px;
+
+      h1 {
+
+        font-size: 34px;
+        border-bottom: whitesmoke solid 4px;
+        width: auto;
+        color: white;
+        display: none;
+
+      }
+
+      > p {
+
+        padding: 25px 50px;
+        width: auto;
+        font-weight: 500;
+        text-align: left;
+        color: white;
+
+      }
     }
   }
 }
 
-.ozonowanie {
-  background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
-  .ozonowanie-info {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    padding-top: 80px;
-    padding-bottom: 50px;
-
-    h1 {
-
-      font-size: 34px;
-      border-bottom: whitesmoke solid 4px;
-      width: 500px;
-      color: white;
-      display: none;
-
-    }
-
-    > p {
-
-      padding: 25px 50px;
-      width: 500px;
-      font-weight: 500;
-      text-align: justify;
-      color: white;
-
-    }
-  }
-}

@@ -9,25 +9,73 @@ Site Hero
   background-repeat: no-repeat;
   background-size: cover;
 
-    .container {
-    height: 100%;
+  .container {
+    height: auto;
+
+    @media screen and (min-width: 808px) {
+
+      .hero-description {
+        height: auto;
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        vertical-align: middle;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        z-index: 2;
+
+        h1 {
+          margin-top: 115px;
+          margin-bottom: 20px;
+          font-weight: 200;
+          font-size: 90px;
+          text-align: center;
+          text-transform: uppercase;
+          color: #000A20;
+
+        }
+
+        h2 {
+          font-family: "Raleway", sans-serif;
+          color: #022E6B;
+          font-weight: 500;
+          font-size: 38px;
+          margin-bottom: 40px;
+          display: none;
+
+        }
+
+        p {
+          font-size: 14px;
+          line-height: 1.5em;
+          letter-spacing: 1px;
+          width: 450px;
+          text-align: justify;
+          font-weight: 500;
+          word-spacing: 0.5px;
+          color: black;
+        }
+      }
+    }
+  }
+  @media screen and (max-width: 808px) {
 
     .hero-description {
-      height: 100%;
+      height: auto;
       width: auto;
       display: flex;
       flex-direction: column;
       vertical-align: middle;
       justify-content: center;
       align-items: center;
-      text-align: justify;
-      z-index: 2;
+      text-align: left;
 
       h1 {
-        margin-top: 115px;
+        margin-top: 80px;
         margin-bottom: 20px;
         font-weight: 200;
-        font-size: 90px;
+        font-size: 60px;
         text-align: center;
         text-transform: uppercase;
         color: #000A20;
@@ -42,18 +90,17 @@ Site Hero
         margin-bottom: 40px;
         display: none;
 
-
       }
 
       p {
         font-size: 14px;
         line-height: 1.5em;
         letter-spacing: 1px;
-        width: 450px;
         text-align: justify;
         font-weight: 500;
         word-spacing: 0.5px;
         color: black;
+        padding: 0 10px;
       }
     }
   }
