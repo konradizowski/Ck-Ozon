@@ -2,11 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f79a521-2860-4c3f-b763-a71f449a2a4a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/css/modules/services.css" afterPath="$PROJECT_DIR$/css/modules/services.css" />
-      <change beforePath="$PROJECT_DIR$/scss/modules/services.scss" afterPath="$PROJECT_DIR$/scss/modules/services.scss" />
-      <change beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
+      <change beforePath="$PROJECT_DIR$/img/2908834853_2d4116edf9_b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/4643752409_c2507d811c_z.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/animal-3116584_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/bacteria-1832824_640.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/cigarette-110849_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/dentist-2530983_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/dentist-3069416_1280.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/files-1633406_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/fire-2263406_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/Ozonator-powietrza-Korona-A-40-Standard-B-generator.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/wiatrak.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/kitchen-731351_1280.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/miernikpowietrze1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/miniatura.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/motor-yacht-638392_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/ozonowanie-samochodu-ogrzybianie-klimatyzacji.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/pool-3001208_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/railway-2833970_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/sky-1551164_1280.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/sports-1962574_1280.jpg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,11 +57,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="services.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/modules/services.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="137" column="19" lean-forward="true" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+              <caret line="137" column="19" lean-forward="false" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="157" column="40" lean-forward="true" selection-start-line="157" selection-start-column="40" selection-end-line="157" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -144,7 +171,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/modules/footer.scss" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/ozon.html" />
         <option value="$PROJECT_DIR$/scss/modules/layout.scss" />
         <option value="$PROJECT_DIR$/scss/modules/header.scss" />
@@ -156,6 +182,7 @@
         <option value="$PROJECT_DIR$/scss/modules/ozon.scss" />
         <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/scss/modules/services.scss" />
+        <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
   </component>
@@ -285,12 +312,12 @@
       <workItem from="1526241115912" duration="15751000" />
       <workItem from="1526980428745" duration="13785000" />
       <workItem from="1527000534556" duration="1502000" />
-      <workItem from="1527083584144" duration="7195000" />
+      <workItem from="1527083584144" duration="7503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97699000" />
+    <option name="totallyTimeSpent" value="98007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="74" width="1299" height="780" extended-state="6" />
@@ -513,14 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/modules/footer.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-468">
@@ -612,7 +631,15 @@
     <entry file="file://$PROJECT_DIR$/scss/modules/services.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="137" column="19" lean-forward="true" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+          <caret line="137" column="19" lean-forward="false" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="157" column="40" lean-forward="true" selection-start-line="157" selection-start-column="40" selection-end-line="157" selection-end-column="40" />
           <folding />
         </state>
       </provider>
