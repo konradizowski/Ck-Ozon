@@ -57,3 +57,31 @@
   }
 }
 
+.pcp {
+  background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+  height: auto;
+  .container {
+    height: 100%;
+    h1 {
+      font-family: "Raleway", sans-serif;
+      color: #022E6B;
+      font-weight: 500;
+      font-size: 33px;
+      padding-top: 25px;
+      padding-bottom: 20px;
+    }
+    .steam {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: justify;
+
+      .para {
+        font-size: 25px;
+        font-weight: 500;
+        color: #022E6B;
+        text-decoration-color: #022E6B;
+        text-decoration: none;
+      }
+    }
+  }
+}

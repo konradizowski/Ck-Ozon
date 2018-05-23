@@ -1,4 +1,4 @@
-@media screen and (max-width: 668px) {
+@media screen and (max-width: 808px) {
   .page-header{
     display: flex;
     width: 100%;
@@ -40,8 +40,15 @@
     color: whitesmoke;
   }
   .logo-box {
-    display: inline-block;
+    display: flex;
     font-size: 19px;
+    flex-direction: row;
+
+    .logo-img{
+      height: 50px;
+      width: 60px;
+      padding-left: 25px;
+    }
 
 
   }

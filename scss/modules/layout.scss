@@ -25,3 +25,50 @@ body { font-family: "Raleway", sans-serif; }
 .col-3-layout .column { width: calc((100%/3)- 2px); }
 .col-4-layout .column { width: calc(25% - 2px); }
 
+@media screen  and (max-width: 668px) {
+
+  .container {
+    width: auto;
+    margin: 0 auto;
+    height: 100%;
+  }
+
+
+  body { font-family: "Raleway", sans-serif; }
+
+
+  .column {
+    text-decoration: none;
+  }
+
+  .col-2-layout, .col-3-layout, .col-4-layout {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+}
+
+
+@media screen  and (min-width: 668px) and (max-width: 1054px) {
+
+  .container {
+    width: auto;
+    margin: 0 auto;
+    height: 100%;
+  }
+
+
+  body { font-family: "Raleway", sans-serif; }
+
+
+  .column {
+    text-decoration: none;
+  }
+
+  .col-2-layout, .col-3-layout, .col-4-layout {
+    height: 100%;
+    display: flex;
+  }
+
+}
