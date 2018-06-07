@@ -2,28 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f79a521-2860-4c3f-b763-a71f449a2a4a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change beforePath="$PROJECT_DIR$/css/modules/about.css" afterPath="$PROJECT_DIR$/css/modules/about.css" />
+      <change beforePath="$PROJECT_DIR$/css/modules/contact.css" afterPath="$PROJECT_DIR$/css/modules/contact.css" />
+      <change beforePath="$PROJECT_DIR$/css/modules/header.css" afterPath="$PROJECT_DIR$/css/modules/header.css" />
+      <change beforePath="$PROJECT_DIR$/css/modules/hero.css" afterPath="$PROJECT_DIR$/css/modules/hero.css" />
+      <change beforePath="$PROJECT_DIR$/css/modules/ozon.css" afterPath="$PROJECT_DIR$/css/modules/ozon.css" />
+      <change beforePath="$PROJECT_DIR$/css/modules/services.css" afterPath="$PROJECT_DIR$/css/modules/services.css" />
       <change beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change beforePath="$PROJECT_DIR$/img/2908834853_2d4116edf9_b.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/4643752409_c2507d811c_z.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/animal-3116584_640.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bacteria-1832824_640.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/cigarette-110849_640.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/dentist-2530983_640.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/dentist-3069416_1280.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/files-1633406_640.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/fire-2263406_640.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/Ozonator-powietrza-Korona-A-40-Standard-B-generator.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/wiatrak.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/kitchen-731351_1280.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/miernikpowietrze1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/miniatura.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/motor-yacht-638392_640.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/ozonowanie-samochodu-ogrzybianie-klimatyzacji.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/pool-3001208_640.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/railway-2833970_640.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/sky-1551164_1280.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/sports-1962574_1280.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/scss/modules/about.scss" afterPath="$PROJECT_DIR$/scss/modules/about.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/modules/contact.scss" afterPath="$PROJECT_DIR$/scss/modules/contact.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/modules/header.scss" afterPath="$PROJECT_DIR$/scss/modules/header.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/modules/hero.scss" afterPath="$PROJECT_DIR$/scss/modules/hero.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/modules/ozon.scss" afterPath="$PROJECT_DIR$/scss/modules/ozon.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/modules/services.scss" afterPath="$PROJECT_DIR$/scss/modules/services.scss" />
+      <change beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,41 +32,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/modules/header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="91" column="11" lean-forward="false" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+            <state relative-caret-position="1710">
+              <caret line="95" column="19" lean-forward="false" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hero.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/modules/hero.scss">
+      <file leaf-file-name="ozon.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/modules/ozon.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="-15">
+              <caret line="114" column="24" lean-forward="false" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/modules/services.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="137" column="19" lean-forward="false" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="157" column="40" lean-forward="true" selection-start-line="157" selection-start-column="40" selection-end-line="157" selection-end-column="40" />
+            <state relative-caret-position="-611">
+              <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,8 +65,8 @@
       <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-162">
-              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="127">
+              <caret line="128" column="37" lean-forward="false" selection-start-line="128" selection-start-column="37" selection-end-line="128" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -90,28 +75,58 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="57" column="52" lean-forward="false" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="52" />
+            <state relative-caret-position="292">
+              <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/modules/gallery.scss">
+      <file leaf-file-name="about.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/modules/about.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="63" column="23" lean-forward="false" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/modules/product.scss">
+      <file leaf-file-name="contact.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/modules/contact.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="162">
+              <caret line="81" column="20" lean-forward="false" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-210">
+              <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ozon.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ozon.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-201">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="27" column="77" lean-forward="false" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -168,21 +183,21 @@
         <option value="$PROJECT_DIR$/js/email.php" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/js/formval.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/modules/footer.scss" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/ozon.html" />
         <option value="$PROJECT_DIR$/scss/modules/layout.scss" />
-        <option value="$PROJECT_DIR$/scss/modules/header.scss" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/scss/modules/contact.scss" />
-        <option value="$PROJECT_DIR$/scss/modules/about.scss" />
-        <option value="$PROJECT_DIR$/scss/modules/hero.scss" />
         <option value="$PROJECT_DIR$/scss/modules/product.scss" />
-        <option value="$PROJECT_DIR$/scss/modules/ozon.scss" />
-        <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/scss/modules/services.scss" />
+        <option value="$PROJECT_DIR$/scss/modules/hero.scss" />
+        <option value="$PROJECT_DIR$/scss/modules/ozon.scss" />
+        <option value="$PROJECT_DIR$/scss/modules/about.scss" />
+        <option value="$PROJECT_DIR$/scss/modules/contact.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/scss/modules/header.scss" />
       </list>
     </option>
   </component>
@@ -312,12 +327,14 @@
       <workItem from="1526241115912" duration="15751000" />
       <workItem from="1526980428745" duration="13785000" />
       <workItem from="1527000534556" duration="1502000" />
-      <workItem from="1527083584144" duration="7503000" />
+      <workItem from="1527083584144" duration="7987000" />
+      <workItem from="1528358844531" duration="115000" />
+      <workItem from="1528358975176" duration="3093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98007000" />
+    <option name="totallyTimeSpent" value="101699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="74" width="1299" height="780" extended-state="6" />
@@ -328,8 +345,8 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -504,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -512,23 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ozon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -536,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1278">
           <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,23 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-468">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/modules/header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="91" column="11" lean-forward="false" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="57" column="52" lean-forward="false" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,74 +553,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/modules/product.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="27" column="77" lean-forward="false" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/modules/ozon.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/modules/about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/modules/hero.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/modules/contact.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="1638">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/modules/services.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="137" column="19" lean-forward="false" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+        <state relative-caret-position="234">
+          <caret line="196" column="31" lean-forward="false" selection-start-line="196" selection-start-column="31" selection-end-line="196" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/modules/product.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/modules/about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="63" column="23" lean-forward="false" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="27" column="77" lean-forward="false" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/modules/contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="81" column="20" lean-forward="false" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ozon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="128" column="37" lean-forward="false" selection-start-line="128" selection-start-column="37" selection-end-line="128" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/modules/ozon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="114" column="24" lean-forward="false" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="157" column="40" lean-forward="true" selection-start-line="157" selection-start-column="40" selection-end-line="157" selection-end-column="40" />
+        <state relative-caret-position="-611">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/modules/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="95" column="19" lean-forward="false" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
           <folding />
         </state>
       </provider>
