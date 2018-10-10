@@ -77,7 +77,7 @@
         .para {
           font-size: 25px;
           font-weight: 500;
-          color: #022E6B;
+          color: #022E6B!important;
           text-decoration-color: #022E6B;
           text-decoration: none;
         }
@@ -256,4 +256,8 @@
       }
     }
   }
+}
+
+span > a.para {
+  color: #022E6B!important;
 }
